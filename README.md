@@ -1,5 +1,5 @@
 <h1 align="center">Olá👋</h1>
-<h3 align="center">Sou um desenvolvedor Front-End (JavaScript, CSS, HTML). Sou apaixonado por solucionar problemas.</h3>
+<h3 align="center">Sou um desenvolvedor Front-End (JavaScript, CSS, HTML). Apaixonado por solucionar problemas.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brnoliveira110&label=Profile%20views&color=0e75b6&style=flat" alt="brnoliveira110" /> </p>
 
