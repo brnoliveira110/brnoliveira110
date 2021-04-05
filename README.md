@@ -13,4 +13,4 @@
 
 <p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=brnoliveira110&show_icons=true&locale=en&layout=compact" alt = "brnoliveira110" /> </p>
 
-<p> & nbsp; <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=brnoliveira110&show_icons=true&locale=en" alt = "brnoliveira110" /> </p>
+<p> & nbsp; <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=brnoliveira110&show_icons=true&locale=en" alt = "brnoliveira110" /> </p> 
