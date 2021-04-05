@@ -1,5 +1,5 @@
 <h1 align="center">Olá👋, Eu sou Caio Santana</h1>
-<h3 align="center">Eu sou um desenvolvedor Front-End (JavaScript, CSS, HTML), atualmente moro em São Paulo. Sou apaixonado por solucionar problemas.</h3>
+<h3 align="center">Eu sou um desenvolvedor Front-End (JavaScript, CSS, HTML). Sou apaixonado por solucionar problemas.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brnoliveira110&label=Profile%20views&color=0e75b6&style=flat" alt="brnoliveira110" /> </p>
 
