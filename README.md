@@ -1,3 +1,5 @@
+<h1 align="center">Olá👋 me chamo Caio Santana</h1>
+
 <h3 align="center">Sou um desenvolvedor Front-End. Descobri na programação uma carreira cheia de desafios e oportunidades, estou em aprendizado constante, sempre evoluindo para entregar o meu melhor. “Hoje melhor que ontem, amanhã melhor que hoje!”</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brnoliveira110&label=Profile%20views&color=0e75b6&style=flat" alt="brnoliveira110" /> </p>
