@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **brnoliveirasantana@gmail.com**
 
-- 📄 Know about my experiences https://github.com/brnoliveira110/](https://github.com/brnoliveira110/)
+- 📄 Know about my experiences [https://github.com/brnoliveira110/](https://github.com/brnoliveira110/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
