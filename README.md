@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Github Explorer](https://github.com/brnoliveira110/githubExplorer)
 
-- 🌱 I’m currently learning **Vue, Node JS, Rest API**
+- 🌱 I’m currently learning **VueJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/brnoliveira110?tab=repositories](https://github.com/brnoliveira110?tab=repositories)
 
